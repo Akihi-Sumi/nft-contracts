@@ -1,2 +1,4 @@
 contracts/artifacts/
+scripts/
+tests/
 .deps/
